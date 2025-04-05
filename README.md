@@ -1,3 +1,2 @@
 # Summary Information
-This C# program enables a user to work with numerous and grades and perform various tasks, ranging from sorting to adding/deleting grades. 
-Various tools are used, such as sorting algorithms and arrays. 
+This program is a C# console application to perform numerous functionalities with student grades. This program was my first sorting application, and I used bubble sort to sort names and grades. The algorithm efficiency is O(n^2) meaning that it is not an efficient algorithm. However, this introductory project was a valuable learning experience allowing me to learn other algorithms too.
